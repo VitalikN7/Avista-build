@@ -11,4 +11,4 @@
 
 **Стек проекта**: HTML, CSS, SCSS, JavaScript, Gulp.
 
-За деплойденый проект: https://avista.onrender.com 
+Deploy проекта: https://avista.onrender.com 
